@@ -7,7 +7,7 @@
           "Store": "default"
         },
         "cs": {
-          "Magento-Store-Code": "CitiSignal",
+          "Magento-Store-Code": "citisignal",
           "Magento-Store-View-Code": "citisignal",
           "Magento-Website-Code": "citisignal"
         }
@@ -20,8 +20,8 @@
         "base-currency-code": "USD",
         "environment": "Testing",
         "environment-id": "M5bSSNpBcGWZzBS8uQ37ka",
-        "store-code": "CitiSignal",
-        "store-id": "CitiSignal",
+        "store-code": "citisignal",
+        "store-id": "citisignal",
         "store-name": "CitiSignal",
         "store-url": "https://coresaas-subgraph-external:8000/M5bSSNpBcGWZzBS8uQ37ka/",
         "store-view-code": "citisignal",
